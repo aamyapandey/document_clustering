@@ -18,4 +18,6 @@ Ready for Customization
 Easily extendable for sentiment tagging, keyphrase extraction, or domain-specific tuning.
 
 
-this project is not a dataset specific. any dataset containt .txt files can be used.
+**This project is not dataset specific. Any dataset containing .txt files can be used.
+archive.zip: Here is an example of the data. Drag and drop this file after launching the app.py. 
+for this dataset (k=5).
